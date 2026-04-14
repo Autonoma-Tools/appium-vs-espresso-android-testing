@@ -1,9 +1,0 @@
-{
-  "version": 1,
-  "slug": "appium-vs-espresso-android-testing",
-  "step": "deps_written",
-  "completed_specs": ["benchmark-runner-android"],
-  "pending_specs": [],
-  "created_at": "2026-04-14T00:00:00Z",
-  "updated_at": "2026-04-14T00:00:00Z"
-}
